@@ -7,5 +7,4 @@ SecondDigit=(a//10)%10
 ThirdDigit= a%10
 result=FirstDigit+SecondDigit+ThirdDigit
 
-
 print(f'The sum of digits of the number {a} will be {result}')
